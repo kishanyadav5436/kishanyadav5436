@@ -1,6 +1,5 @@
 <div align="center">
-![Untitled design](https://github.com/user-attachments/assets/5842d51b-54e5-4b81-aefe-5d5f907ac629)
-
+Untitled design.gif
   
   # 👋 Hi, I'm Kishan Yadav
   ### B.Tech CSE Student @ BBDU | AI Enthusiast | Full Stack Developer
