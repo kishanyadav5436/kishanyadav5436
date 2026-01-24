@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+  <img src="banner.png" alt="Kishan Yadav Banner" width="100%">
+  
+  # 👋 Hi, I'm Kishan Yadav
+  ### B.Tech CSE Student @ BBDU | AI Enthusiast | Full Stack Developer
+</div>
 
-<!--
-**kishanyadav5436/kishanyadav5436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+* 🔭 I’m currently working on an **AI Chatbot for Inclusion Awareness**.
+* 🎓 Studying Computer Science at **Babu Banarsi Das University**.
+* ⚡ Fun fact: I love time-travel K-dramas like *Twinkling Watermelon*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+- **Languages:** C, C++, Python, JavaScript
+- **Tools:** React, Next.js, Tailwind CSS, Vercel
+- **Interests:** Automata Theory, Network Protocols, and AI.
+
+---
+
+<div align="center">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
