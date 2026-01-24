@@ -1,5 +1,5 @@
 <div align="center">
-  ![Video_Generation_Complete](https://github.com/user-attachments/assets/cd4d7d41-2355-48f9-a8eb-54d08501c98b)
+![Untitled design](https://github.com/user-attachments/assets/5842d51b-54e5-4b81-aefe-5d5f907ac629)
 
   
   # 👋 Hi, I'm Kishan Yadav
