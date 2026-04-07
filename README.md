@@ -17,9 +17,9 @@
 * ⚡ Fun fact: I like watching Anime and Reading Novels
 
 ### 🛠️ My Tech Stack
-- **Languages:** C, C++, Python, JavaScript
+- **Languages:** C, Java, Python, JavaScript
 - **Tools:** React, Next.js, Tailwind CSS, Vercel
-- **Interests:** Automata Theory, Network Protocols, and AI.
+- **Interests:**  Networking, Devolpment and Genrative AI, LLM .
 
 ---
 
