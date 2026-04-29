@@ -5,8 +5,9 @@
   ### B.Tech CSE Student @ BBDU | AI Enthusiast | Frontend Devolper
 </div>
 <p align="center">
-  <a href="https://portfolio-kishan.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white">
+<a href="https://portfolio-kishan.vercel.app" target="_blank" rel="noopener noreferrer">
+  Visit Portfolio
+</a>    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 
