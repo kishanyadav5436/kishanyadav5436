@@ -64,7 +64,7 @@
 | **Angular Todo App** | Angular, TypeScript | Task management app with CRUD operations and state management. | [GitHub](https://github.com/kishanyadav5436/AngularBasicTodo) |
 | **Rock-Paper-Scissors** | Vanilla JS, DOM | Interactive web game with score tracking and smooth animations. | [GitHub](https://github.com/kishanyadav5436/RockPaper) |
 
-
+---
 
 ### 📊 GitHub Stats & Streaks
 
