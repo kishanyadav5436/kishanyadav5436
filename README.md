@@ -118,14 +118,14 @@
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kishanyadav5436&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-nine-sand-55.vercel.app/api?username=kishanyadav5436&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishanyadav5436&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kishanyadav5436&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats-nine-sand-55.vercel.app/api/top-langs/?username=kishanyadav5436&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
 </div>
 
 ---
