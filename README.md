@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Hi%20There,%20I'm%20Kishan%20Yadav!%20👋&fontSize=42&fontAlignY=35&animation=twinkling&[...]
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Hi%20There,%20I'm%20Kishan%20Yadav!%20👋&fontSize=42&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer&descAlignY=55&descSize=18" width="100%" />
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=B.Tech+CSE+Student+%40+BBDU;Full-Stack+Architec[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=B.Tech+CSE+Student+%40+BBDU;Full-Stack+Architect+%26+Web+Developer;Exploring+Generative+AI+%26+LLMs;Building+Servify+Service+Marketplace;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -107,11 +107,11 @@
 
 | Project | Tech Stack | Key Features | Links |
 |:---|:---|:---|:---:|
-| 🏙️ **Servify** | Next.js, TypeScript, Tailwind, Appwrite | Neighborhood service marketplace connecting local service providers with customers. Features booking, ratings, and real-time requ[...]
-| 🤖 **AI Chatbot for Inclusion** | Python, Next.js, OpenAI / LLMs | Accessibility-focused AI assistant built to promote inclusion, offering smart conversational capabilities and awareness guid[...]
-| 🌐 **Personal Portfolio** | React.js, Tailwind CSS, Vercel | Interactive showcase of projects, skill sets, contact interfaces, and engineering experience. | [Live Demo](https://portfolio-kish[...]
-| 📝 **Angular Todo App** | Angular, TypeScript, RxJS | Feature-packed task management tool with CRUD state management, filters, and local persistence. | [GitHub](https://github.com/kishanyadav[...]
-| 🎮 **Rock-Paper-Scissors** | JavaScript (ES6+), DOM, CSS3 | Sleek browser game featuring score tracking, smooth micro-animations, and AI opponent logic. | [GitHub](https://github.com/kishanya[...]
+| 🏙️ **Servify** | Next.js, TypeScript, Tailwind, Appwrite | Neighborhood service marketplace connecting local service providers with customers. Features booking, ratings, and real-time requests. | [GitHub](https://github.com/kishanyadav5436/Servify) |
+| 🤖 **AI Chatbot for Inclusion** | Python, Next.js, OpenAI / LLMs | Accessibility-focused AI assistant built to promote inclusion, offering smart conversational capabilities and awareness guides. | [Portfolio](https://portfolio-kishan.vercel.app) |
+| 🌐 **Personal Portfolio** | React.js, Tailwind CSS, Vercel | Interactive showcase of projects, skill sets, contact interfaces, and engineering experience. | [Live Demo](https://portfolio-kishan.vercel.app) \| [GitHub](https://github.com/kishanyadav5436/PortfolioReact) |
+| 📝 **Angular Todo App** | Angular, TypeScript, RxJS | Feature-packed task management tool with CRUD state management, filters, and local persistence. | [GitHub](https://github.com/kishanyadav5436/AngularBasicTodo) |
+| 🎮 **Rock-Paper-Scissors** | JavaScript (ES6+), DOM, CSS3 | Sleek browser game featuring score tracking, smooth micro-animations, and AI opponent logic. | [GitHub](https://github.com/kishanyadav5436/RockPaper) |
 
 ---
 
@@ -125,7 +125,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kishanyadav5436&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%[...]
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kishanyadav5436&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
 </div>
 
 ---
@@ -141,5 +141,3 @@
 <div align="center">
   <sub>✨ <b>Always learning, always building.</b> Let me know if you'd like to collaborate! ✨</sub>
 </div>
-
-<!-- Co-authored contribution badge -->
